@@ -1,4 +1,4 @@
-# Ostim Community Modlist
+# SkyrimReborn-Ostimmed
 
 Hello and thank you for reading this messy page! We have information on nearly every aspect of the list, so give it a quick read if you have any questions.
 

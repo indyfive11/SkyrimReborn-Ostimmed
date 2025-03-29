@@ -1,8 +1,7 @@
 # SkyrimReborn-Ostimmed
 
-Hello and thank you for reading this messy page! We have information on nearly every aspect of the list, so give it a quick read if you have any questions.
+Hello and welcome to Skyrim Reborn Ostimmed, or SRO for short.  This list is based on OCM, a nice Modlist that comes with many features I liked, if you don't like mine please check out that one. This list comes with my own additions and deletions and will diverge over time as I learn the ins and outs of Skyrim Modlisting, seeing how this is my first attempt at this.  I'm an old Bethesda Modder, and have contributed a number of mods over the years under the Name Indefiance.  Including Frostcrag Reborn from the Oblivion days, and revamping the flight mod for Skyrim.  I'm also a fair hand at creating my own massive Skyrim Installs with over 3000+ mods working together, and I'm hoping to be able to contribute my own vision of what I like to the community. Thanks for checking this out. 
 
-[discord server](https://discord.gg/vYkTp86CcZ).
 
 # General
 
